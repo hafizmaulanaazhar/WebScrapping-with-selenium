@@ -60,18 +60,18 @@
             //mengambil data dari file headline.txt
             $.get('final.json',function(obj){
                 var str = "<table border='1' cellspacing='0' cellpadding='6' align='center'>";
-                str+= "<tr align='center' bgcolor='#63b3ed'><td>No</td><td>Judul Film</td><td>Tahun</td><td>Rating</td><td>Image</td><td>Waktu</td></tr>";
+					str+= "<tr align='center' bgcolor='#63b3ed'><td>No</td><td>Gambar</td><td>Judul</td><td>Tahun</td><td>Rating</td><td>Waktu Scraping</td></tr>";
                 //looping data headline -
                 $.each(obj,function(n,data){
                     
                     //isi tabel
-                    str+= "<tr><td>"+(n+1)+"</td>";
-                    str+= "<td>"+data.Judul+"</td>";
-                    str+= "<td>"+data.Tahun+"</td>";
-                    str+= "<td>"+data.Rating+"</td>";
-                    str+= "<td>"+data.tanggal+"</td>";
-                    str+= "<td>"+data.Tanggal_Scrapping+"</td></tr>";
-                });
+                    str+= "<tr><td>"+data.No+"</td>";
+					str+= "<td><img src=\""+data.Image+"\"></td>";
+					str+= "<td>"+data.Judul+"</td>";
+					str+= "<td>"+data.Tahun+"</td>";
+					str+= "<td>"+data.Rating+"</td>";
+					str+= "<td>"+data.Tanggal_Scrapping+"</td></tr>";
+				});
                 //tag tabel penutup
                 str+="</table>";
                 //Display semua headline ke html
