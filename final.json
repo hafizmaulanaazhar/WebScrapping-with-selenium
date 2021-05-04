@@ -1,0 +1,804 @@
+[
+      {
+            "No": "1",
+            "Judul": " The Shawshank Redemption",
+            "Tahun": "1994",
+            "Rating": "9.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "2",
+            "Judul": "The Godfather ",
+            "Tahun": "1972",
+            "Rating": "9.1",
+            "Image": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "3",
+            "Judul": "The Godfather: Part II",
+            "Tahun": "1974",
+            "Rating": "9.0",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "4",
+            "Judul": "The Dark Knight ",
+            "Tahun": "2008",
+            "Rating": "9.0",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "5",
+            "Judul": "12 Angry Men ",
+            "Tahun": "1958",
+            "Rating": "8.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "6",
+            "Judul": "Schindler's List",
+            "Tahun": "1993",
+            "Rating": "8.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "7",
+            "Judul": "The Lord of the Rings: The Return of the King",
+            "Tahun": "2003",
+            "Rating": "8.9",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "8",
+            "Judul": "Pulp Fiction ",
+            "Tahun": "1994",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "9",
+            "Judul": "The Good, the Bad and the Ugly",
+            "Tahun": "1966",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "10",
+            "Judul": "The Lord of the Rings: The Fellowship of the Ring",
+            "Tahun": "2001",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "11",
+            "Judul": "Fight Club",
+            "Tahun": "1999",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmEzNTkxYjQtZTc0MC00YTVjLTg5ZTEtZWMwOWVlYzY0NWIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "12",
+            "Judul": "Forrest Gump",
+            "Tahun": "1994",
+            "Rating": "8.8",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "13",
+            "Judul": "Inception",
+            "Tahun": "2010",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "14",
+            "Judul": "The Lord of the Rings: The Two Towers",
+            "Tahun": "2002",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "15",
+            "Judul": "Star Wars: Episode V - The Empire Strikes Back",
+            "Tahun": "1980",
+            "Rating": "8.7",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "16",
+            "Judul": "The Matrix ",
+            "Tahun": "1999",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "17",
+            "Judul": "Goodfellas ",
+            "Tahun": "1990",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "18",
+            "Judul": "One Flew Over the Cuckoo's Nest ",
+            "Tahun": "1975",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "19",
+            "Judul": "Seven Samurai",
+            "Tahun": "1954",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOWE4ZDdhNmMtNzE5ZC00NzExLTlhNGMtY2ZhYjYzODEzODA1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "20",
+            "Judul": "Se7en ",
+            "Tahun": "1995",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "21",
+            "Judul": "Life Is Beautiful",
+            "Tahun": "1997",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "22",
+            "Judul": "City of God",
+            "Tahun": "2002",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "23",
+            "Judul": "The Silence of the Lambs",
+            "Tahun": "1991",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "24",
+            "Judul": "It's a Wonderful Life",
+            "Tahun": "1946",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "25",
+            "Judul": "Saving Private Ryan",
+            "Tahun": "1998",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "26",
+            "Judul": "Star Wars: Episode IV - A New Hope",
+            "Tahun": "1977",
+            "Rating": "8.6",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "27",
+            "Judul": "The Green Mile",
+            "Tahun": "1999",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "28",
+            "Judul": "Spirited Away",
+            "Tahun": "2001",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "29",
+            "Judul": "Interstellar",
+            "Tahun": "2014",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "30",
+            "Judul": "Parasite",
+            "Tahun": "2019",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "31",
+            "Judul": "L\u00e9on: The Professional",
+            "Tahun": "1994",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODllNWE0MmEtYjUwZi00ZjY3LThmNmQtZjZlMjI2YTZjYmQ0XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "32",
+            "Judul": "Hara-Kiri ",
+            "Tahun": "1962",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_UY67_CR2,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "33",
+            "Judul": "The Lion King",
+            "Tahun": "1994",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "34",
+            "Judul": "The Usual Suspects",
+            "Tahun": "1995",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "35",
+            "Judul": "The Pianist",
+            "Tahun": "2002",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR2,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "36",
+            "Judul": "Terminator 2: Judgment Day",
+            "Tahun": "1991",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "37.",
+            "Judul": "Back to the Future",
+            "Tahun": "1985",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "38",
+            "Judul": "American History X",
+            "Tahun": "1998",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "39",
+            "Judul": "Modern Times",
+            "Tahun": "1936",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "40",
+            "Judul": "Gladiator",
+            "Tahun": "2000",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "41",
+            "Judul": "Psycho",
+            "Tahun": "1960",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "42",
+            "Judul": "The Departed",
+            "Tahun": "2006",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "43",
+            "Judul": "City Lights",
+            "Tahun": "1931",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "44",
+            "Judul": "whiplash",
+            "Tahun": "2014",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "45",
+            "Judul": "The Intouchables",
+            "Tahun": "2011",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "46",
+            "Judul": "Grave of the Fireflies",
+            "Tahun": "1988",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "47",
+            "Judul": "The Prestige",
+            "Tahun": "2006",
+            "Rating": "8.5",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "48",
+            "Judul": "Once Upon a Time in the West",
+            "Tahun": "1968",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "49",
+            "Judul": "Casablanca",
+            "Tahun": "1942",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "50",
+            "Judul": "Cinema Paradiso",
+            "Tahun": "1988",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "51",
+            "Judul": "Rear Window",
+            "Tahun": "1954",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "52",
+            "Judul": "Alien",
+            "Tahun": "1979",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "53",
+            "Judul": "Apocalypse Now",
+            "Tahun": "1979",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDdhODg0MjYtYzBiOS00ZmI5LWEwZGYtZDEyNDU4MmQyNzFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "54",
+            "Judul": "Memento",
+            "Tahun": "2000",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "55",
+            "Judul": "The Great Dictator",
+            "Tahun": "1940",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "56",
+            "Judul": "Indiana Jones and the Raiders of the Lost Ark",
+            "Tahun": "1982",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjA0ODEzMTc1Nl5BMl5BanBnXkFtZTcwODM2MjAxNA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "57",
+            "Judul": "Django Unchained",
+            "Tahun": "2012",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "58",
+            "Judul": "The Lives of Others",
+            "Tahun": "2006",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOThkM2EzYmMtNDE3NS00NjlhLTg4YzktYTdhNzgyOWY3ZDYzXkEyXkFqcGdeQXVyNzQzNzQxNzI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "59",
+            "Judul": "Paths of Glory",
+            "Tahun": "1957",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNjViMmRkOTEtM2ViOS00ODg0LWJhYWEtNTBlOGQxNDczOGY3XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "60",
+            "Judul": "WALL\u00b7E",
+            "Tahun": "2008",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "61",
+            "Judul": "Hamilton",
+            "Tahun": "2020",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "62",
+            "Judul": "Joker ",
+            "Tahun": "2019",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "63",
+            "Judul": "The Shining",
+            "Tahun": "1980",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "64",
+            "Judul": "Avengers: Infinity War",
+            "Tahun": "2018",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "65",
+            "Judul": "Sunset Blvd",
+            "Tahun": "1950",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "66",
+            "Judul": "Witness for the Prosecution",
+            "Tahun": "1957",
+            "Rating": "8.4",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "67",
+            "Judul": "Spider-Man: Into the Spider-Verse",
+            "Tahun": "2018",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "68",
+            "Judul": "Oldboy",
+            "Tahun": "2003",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "69",
+            "Judul": "Princess Mononoke",
+            "Tahun": "1997",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "70",
+            "Judul": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "Tahun": "1964",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "71",
+            "Judul": "The Dark Knight Rises",
+            "Tahun": "2012",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "72",
+            "Judul": "nce Upon a Time in America",
+            "Tahun": "1984",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "73",
+            "Judul": "Your Name",
+            "Tahun": "2016",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "74",
+            "Judul": "Coco",
+            "Tahun": "2017",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "75",
+            "Judul": "Aliens",
+            "Tahun": "1986",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "76",
+            "Judul": "Avengers: Endgame",
+            "Tahun": "2019",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "77",
+            "Judul": "Capernaum",
+            "Tahun": "2018",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "78",
+            "Judul": "American Beauty",
+            "Tahun": "1999",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "79",
+            "Judul": "Braveheart",
+            "Tahun": "1995",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "80",
+            "Judul": "High and Low",
+            "Tahun": "1963",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTI4NTNhZDMtMWNkZi00MTRmLWJmZDQtMmJkMGVmZTEzODlhXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "81",
+            "Judul": "Toy Story",
+            "Tahun": "1995",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "82",
+            "Judul": "Das Boot",
+            "Tahun": "1981",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOGZhZDIzNWMtNjkxMS00MDQ1LThkMTYtZWQzYWU3MWMxMGU5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "83",
+            "Judul": "3 Idiots",
+            "Tahun": "2009",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "84",
+            "Judul": "Amadeus",
+            "Tahun": "1984",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "85",
+            "Judul": "Inglourious Basterds",
+            "Tahun": "2009",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "86",
+            "Judul": "Good Will Hunting",
+            "Tahun": "1997",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "87",
+            "Judul": "Star Wars: Episode VI - Return of the Jedi",
+            "Tahun": "1983",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "88",
+            "Judul": "Like Stars on Earth",
+            "Tahun": "2007",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "89",
+            "Judul": "Reservoir Dogs",
+            "Tahun": "1992",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "90",
+            "Judul": "2001: A Space Odyssey",
+            "Tahun": "1968",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "91",
+            "Judul": "Requiem for a Dream",
+            "Tahun": "2000",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "92",
+            "Judul": "The Hunt",
+            "Tahun": "2012",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "93",
+            "Judul": "Vertigo",
+            "Tahun": "1958",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "94",
+            "Judul": "M",
+            "Tahun": "1931",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "95",
+            "Judul": "Eternal Sunshine of the Spotless Mind",
+            "Tahun": "2004",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "96",
+            "Judul": "Citizen Kane",
+            "Tahun": "1941",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "97",
+            "Judul": "DangaL",
+            "Tahun": "2016",
+            "Rating": "8.3",
+            "Image": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_UY67_CR1,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "98",
+            "Judul": "Come and See",
+            "Tahun": "1985",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "99",
+            "Judul": "The Kid",
+            "Tahun": "1921",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      },
+      {
+            "No": "100",
+            "Judul": "Singin' in the Rain",
+            "Tahun": "1952",
+            "Rating": "8.2",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+            "Tanggal_Scrapping": "04 May 2021, 13 02 45"
+      }
+      
+      
+]
